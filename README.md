@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**Mpho-vincent-makgwe/Mpho-Vincent-Makgwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Great, here's an updated version of the README.md file that includes your repositories:
 
-Here are some ideas to get you started:
+# Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction 🙋‍♂️
+Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS, JavaScript, PHP, Vue, and Node.js.
+
+## Skills 🚀
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Vue
+- Node.js
+
+## Projects 💼
+Here are some of the projects I have worked on during my studies at CodeLab Academy:
+- [COVID-19 Tracker](https://github.com/Mpho-vincent-makgwe/covid19-tracker): A simple web application built using Vue.js that displays COVID-19 statistics from around the world.
+- [Todo App](https://github.com/Mpho-vincent-makgwe/todo-app): A todo list application built using PHP and MySQL that allows users to add, edit, and delete tasks.
+- [Weather App](https://github.com/Mpho-vincent-makgwe/weather-app): A web application built using Node.js and Express that displays weather information for a user-specified location.
+- [Movie App](https://github.com/Mpho-vincent-makgwe/movie-app): A movie search application built using Vue.js that allows users to search for movies and get information such as title, year, and plot.
+
+## Repositories 📚
+Here are some of my repositories that showcase my coding skills:
+- [CodeLab Projects](https://github.com/Mpho-vincent-makgwe/codelab-projects): A collection of small coding projects I completed during my time at CodeLab Academy.
+- [JavaScript30](https://github.com/Mpho-vincent-makgwe/javascript30): A repository containing my solutions to the 30 Day Vanilla JS Challenge.
+- [Portfolio Website](https://github.com/Mpho-vincent-makgwe/portfolio-website): The code for my personal portfolio website, built using HTML, CSS, and JavaScript.
+
+## Contact Information 📞
+If you would like to contact me, please feel free to send me an email at [your-email-address] or connect with me on LinkedIn at [your-LinkedIn-profile-link]. Thank you for taking the time to view my work! 😊
