@@ -8,7 +8,7 @@ Great, here's an updated version of the README.md file that includes your reposi
 Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS, JavaScript, PHP, Vue, and Node.js.
 
 ## Skills 🚀
-- HTML
+-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
 - CSS
 - JavaScript
 - PHP
