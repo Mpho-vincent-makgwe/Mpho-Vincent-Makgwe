@@ -25,7 +25,7 @@ Here are some of the projects I have worked on during my studies at CodeLab Acad
 ## Repositories 📚
 Here are some of my repositories that showcase my coding skills:
 - [CodeLab Projects](https://github.com/Mpho-vincent-makgwe/codelab-projects): A collection of small coding projects I completed during my time at CodeLab Academy.
-- [JavaScript30](https://github.com/Mpho-vincent-makgwe/javascript30): A repository containing my solutions to the 30 Day Vanilla JS Challenge.
+- [JavaScript30](https://github.com/Mpho-vincent-makgwe/JavaScript30-master.git): A repository containing my solutions to the 30 Day Vanilla JS Challenge.
 - [Portfolio Website](): The code for my personal portfolio website, built using HTML, CSS, and JavaScript.
 
 ## Contact Information 📞
