@@ -35,8 +35,8 @@ Here are some of my repositories that showcase my coding skills:
 
 Feel free to connect with me! You can reach me through the following channels:
 
-- **Email:** mphomakgwe44@gmail.com
-- **LinkedIn:** [[Mpho Vincent Makgwe](https://www.linkedin.com/in/mpho-vincent-makgwe-1ab386199/)
-- **Twitter:** [)
+- **Email:** mphomakgwe4@gmail.com
+- **LinkedIn:** [[Mpho Vincent Makgwe](https://www.linkedin.com/in/mpho-vincent-makgwe-1ab386199/)]
+- **Twitter:** [[Mpho's Twitter]()]
 
 Thank you for taking the time to view my work! 😊
