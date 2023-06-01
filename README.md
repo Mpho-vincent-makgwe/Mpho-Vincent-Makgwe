@@ -28,5 +28,13 @@ Here are some of my repositories that showcase my coding skills:
 - [Portfolio Website](): The code for my personal portfolio website, built using HTML, CSS, and JavaScript.
 - [Kitchen App](https://github.com/Mpho-vincent-makgwe/todo-app): An order list application built using HTML,CSS and JavaScript that allows users to add, edit, and delete orders.
 - 
-## Contact Information 📞
-If you would like to contact me, please feel free to send me an email at mphomakgwe44@gmail.com or connect with me on LinkedIn at [Mpho Vincent Makgwe](https://www.linkedin.com/in/mpho-vincent-makgwe-1ab386199/). Thank you for taking the time to view my work! 😊
+
+### 📫 Contact
+
+Feel free to connect with me! You can reach me through the following channels:
+
+- **Email:** mphomakgwe44@gmail.com
+- **LinkedIn:** [[Mpho Vincent Makgwe](https://www.linkedin.com/in/mpho-vincent-makgwe-1ab386199/)
+- **Twitter:** [)
+
+Thank you for taking the time to view my work! 😊
