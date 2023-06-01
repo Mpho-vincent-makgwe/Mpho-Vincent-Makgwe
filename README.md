@@ -22,6 +22,8 @@ Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mpho-Vincent-Makgwe&size_weight=0.5&count_weight=0.5)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
 
+[![Mpho-Vincent-Makgwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HMpho-Vincent-Makgwe)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
+
 
 ## Repositories 📚
 Here are some of my repositories that showcase my coding skills:
