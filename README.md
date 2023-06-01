@@ -20,7 +20,7 @@ Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software e
 ## Stats
 [![Mpho Vincent Makgwe Stats](https://github-readme-stats.vercel.app/api?username=Mpho-Vincent-Makgwe&show_icons=true&theme=merko&bg_color=00000000)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mpho-Vincent-Makgwe)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mpho-Vincent-Makgwe&size_weight=0.5&count_weight=0.5)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
 
 
 ## Repositories 📚
