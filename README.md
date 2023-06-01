@@ -18,7 +18,8 @@ Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software e
 -  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 ## Stats
-[![Mpho Vincent Makgwe's GitHub stats](https://github-readme-stats.vercel.app/api?[Mpho-Vincent-Makgwe=anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+[![Mpho Vincent Makgwe Stats](https://github-readme-stats.vercel.app/api?username=Mpho-Vincent-Makgwe)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
+
 
 ## Repositories 📚
 Here are some of my repositories that showcase my coding skills:
