@@ -36,6 +36,6 @@ Feel free to connect with me! You can reach me through the following channels:
 
 - **Email:** mphomakgwe4@gmail.com
 - **LinkedIn:** [[Mpho Vincent Makgwe](https://www.linkedin.com/in/mpho-vincent-makgwe-1ab386199/)]
-- **Twitter:** [[Mpho's Twitter]()]
+- **Twitter:** [[Mpho's Twitter](https://twitter.com/youngstoningV)]
 
 Thank you for taking the time to view my work! 😊
