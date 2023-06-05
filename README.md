@@ -13,8 +13,8 @@ Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software e
 - [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://iconscout.com/icon/css3-8)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![GitHub stars](https://img.shields.io/github/stars/Mpho-Vincent-Makgwe/[Your Repository].svg)](https://github.com/Mpho-Vincent-Makgwe/[Your Repository]/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Mpho-Vincent-Makgwe/[Your Repository].svg)](https://github.com/Mpho-Vincent-Makgwe/[Your Repository]/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe.svg)](https://github.com/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe.svg)](https://github.com/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe]/issues)
 
 ## Stats
 [![Mpho Vincent Makgwe Stats](https://github-readme-stats.vercel.app/api?username=Mpho-Vincent-Makgwe&show_icons=true&theme=merko&bg_color=00000000)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
