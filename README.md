@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Great, here's an updated version of the README.md file that includes your repositories:
-
 # Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
 
 ## Introduction 🙋‍♂️
@@ -14,6 +12,9 @@ Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software e
 -  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://iconscout.com/icon/javascript-2752148)
 - [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://iconscout.com/icon/css3-8)
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+[![GitHub stars](https://img.shields.io/github/stars/Mpho-Vincent-Makgwe/[Your Repository].svg)](https://github.com/Mpho-Vincent-Makgwe/[Your Repository]/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Mpho-Vincent-Makgwe/[Your Repository].svg)](https://github.com/Mpho-Vincent-Makgwe/[Your Repository]/issues)
 
 ## Stats
 [![Mpho Vincent Makgwe Stats](https://github-readme-stats.vercel.app/api?username=Mpho-Vincent-Makgwe&show_icons=true&theme=merko&bg_color=00000000)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
