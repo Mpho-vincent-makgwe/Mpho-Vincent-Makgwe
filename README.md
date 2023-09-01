@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Introduction 🙋‍♂️
-Hello, my name is Mpho Vincent Makgwe and I am currently a full stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS, JavaScript, PHP, Vue, and Node.js.
+Hello, my name is Mpho Vincent Makgwe and I am currently a full-stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS, JavaScript, PHP, Vue, and Node.js.
 
 -I am a passionate and driven individual with a strong foundation in web development, particularly in HTML, CSS, and JavaScript. Currently studying Full Stack Software Development at Codespace Academy, I am expanding my expertise in programming languages like Python and Java, as well as frameworks such as React and Node.js. With a deep understanding of software development principles and a keen eye for detail, I thrive in problem-solving and strive for excellence in delivering scalable and efficient solutions. A collaborative mindset and effective communication skills enable me to contribute effectively within teams and create innovative software solutions. My relentless dedication to continuous learning and growth fuels my ambition to become a successful Software Engineer, making a lasting impact in the ever-evolving IT industry.
 
