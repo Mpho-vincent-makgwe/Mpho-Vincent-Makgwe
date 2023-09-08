@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
-![Mpho Vincent Makgwe]([https://photos.app.goo.gl/bPULQpLq7beshfRaA])
+![Mpho Vincent Makgwe](https://photos.app.goo.gl/bPULQpLq7beshfRaA)
 ## Introduction 🙋‍♂️
 Hello, my name is Mpho Vincent Makgwe and I am currently a full-stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS, JavaScript, PHP, Vue, and Node.js.
 
