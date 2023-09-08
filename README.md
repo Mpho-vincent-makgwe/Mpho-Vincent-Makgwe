@@ -2,8 +2,6 @@
 ### Hi there 👋
 
 # Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
-![Mhp Vincent Makgwe](https://lh3.googleusercontent.com/pw/AIL4fc-1fv2eRosrcJUPwFpp7-1YZJcyMoZvmeHZN1J6K6TuCyV9jspFk1sKfPDVuy14_IXM4bzsGvuu3y3Ypzue5nHvLVInpNPD-18lt0M2of4f0zH8t36Si1nmfBsXcoT9RqNe11kV1JIPL5yjcu9be6YehyjTIkitFfEKmFAiBEx1LuzzJCN1HQr-_QKmXixrAL-h9Wo2zwBKxblRRWbdnqCiqbyBL2TzA3k3FuT5s0vw3TcBVvbimIJyqpH8VGUwUFUgPfZ0eUEcVYDno9nWUMmWoBRkWyrcL5-MyrQ8G7ETmchTZh3ELWjZJ8ZLAlN2lL00IFxDDq1A9fMi7KVkRQXyVDvEAdz2s7-dNIk2jnkODo5THxo8ymtKTEBpM2xDhAO-jw-nV4bPmhWOKoF9Wr3gj2KMJJX2Uun3aC6hqNQgPb0kU9Mr0vBdsCyFsR8qp2VLBwjLo_mEaofu2A8JR-LGXXVHdbzJXD0MR8QkQWVbkrAtRD49R_97mbGd0A6RNTyz3rjwojmgYD0sOr47lQPqbyt0opKd6Cue4QoIKJFxSCfObwe1hLPS-h_c6A_cP0MTQnfx_hAA3rLS3Vw12rNq4YVxDPaaxI6vZ4bIk-7mvuxmw7XaWFhZ3qmjf5cRJI9GIr6yP6SP0M569bbAirfEfpI6KaFCTsAxlJMpym4mQFE-y4KzxfGou5N18vk3WpNYJLpuoghE75z94idJX7XbjClkikaop-HgMWL2tfs3gKFqZRu6aEuYUSFUqBLC-JHMfxWjfscpxgtkhE7LgtMb57bkZyc1Sfb-L2ZjdDOk-xt5AKNK8ZBVsy8SVtsXf_txKpwFXsDAScZs1sWALlchydGmoCjawzUX3EjzKwsTTwIkHqgQM0I8FAtRkPaVeaY2UMaFkTXl68YtFeMeCbD2qrrYU_WSPnm6qvwZKQHT7JwduCCl2BJNocGPTw=w830-h830-s-no?authuser=0) 
-### Mpho Vincent Makgwe
 ## Introduction 🙋‍♂️
 Hello, my name is Mpho Vincent Makgwe and I am currently a full-stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS, JavaScript, PHP, Vue, and Node.js.
 
