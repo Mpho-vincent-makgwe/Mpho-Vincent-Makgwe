@@ -1,4 +1,4 @@
-![image](https://github.com/Mpho-vincent-makgwe/Mpho-Vincent-Makgwe/assets/118048918/36b9e423-5c4b-4544-b006-859056347434) 
+![image](https://github.com/Mpho-vincent-makgwe/Mpho-Vincent-Makgwe/assets/118048918/36b9e423-5c4b-4544-b006-859056347434){:width="300" height="200"}
 ### Hi there 👋
 
 # Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
