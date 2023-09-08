@@ -1,5 +1,5 @@
 ![image](https://github.com/Mpho-vincent-makgwe/Mpho-Vincent-Makgwe/assets/118048918/36b9e423-5c4b-4544-b006-859056347434)
-<img src="[./example.png](https://github.com/Mpho-vincent-makgwe/Mpho-Vincent-Makgwe/assets/118048918/36b9e423-5c4b-4544-b006-859056347434)" alt="Example Image" width="200" height="200">
+<img src="https://github.com/Mpho-vincent-makgwe/Mpho-Vincent-Makgwe/assets/118048918/36b9e423-5c4b-4544-b006-859056347434" alt="Example Image" width="200" height="200">
 
 ### Hi there 👋
 
