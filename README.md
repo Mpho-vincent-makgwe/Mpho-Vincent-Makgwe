@@ -3,16 +3,18 @@
 ### Hi there 👋
 
 # Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
-## Introduction 🙋‍♂️
-Hello, my name is Mpho Vincent Makgwe and I am currently a full-stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS, JavaScript, PHP, Vue, and Node.js.
+## About me.
+Hello, I am currently a full-stack software engineering student at CodeLab Academy. I have experience working with a variety of programming languages, including HTML, CSS and JavaScript.
 
 -I am a passionate and driven individual with a strong foundation in web development, particularly in HTML, CSS, and JavaScript. Currently studying Full Stack Software Development at Codespace Academy, I am expanding my expertise in programming languages like Python and Java, as well as frameworks such as React and Node.js. With a deep understanding of software development principles and a keen eye for detail, I thrive in problem-solving and strive for excellence in delivering scalable and efficient solutions. A collaborative mindset and effective communication skills enable me to contribute effectively within teams and create innovative software solutions. My relentless dedication to continuous learning and growth fuels my ambition to become a successful Software Engineer, making a lasting impact in the ever-evolving IT industry.
 
 ## Skills 🚀
--  [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://iconscout.com/icon/html5-19)
--  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://iconscout.com/icon/javascript-2752148)
+- [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://iconscout.com/icon/html5-19)
 - [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://iconscout.com/icon/css3-8)
-
+- [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://iconscout.com/icon/javascript-2752148)
+- [![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+- [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+- [![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![GitHub stars](https://img.shields.io/github/stars/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe.svg)](https://github.com/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe.svg)](https://github.com/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe]/issues)
