@@ -15,9 +15,15 @@ Hello, I am currently a full-stack software engineering student at CodeLab Acade
 - [![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 - [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 - [![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![GitHub stars](https://img.shields.io/github/stars/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe.svg)](https://github.com/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe.svg)](https://github.com/Mpho-Vincent-Makgwe/Mpho-Vincent-Makgwe]/issues)
+- [![Notion](https://img.shields.io/badge/-Notion-gray?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)
+- [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![SupaBase](https://img.shields.io/badge/-SupaBase-yellow?style=flat&logo=supabase&logoColor=white)](https://supabase.io/)
+- [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
+- [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+- [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+- [![Material UI](https://img.shields.io/badge/-Material_UI-blue?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
+- [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+- [![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ## Stats
 [![Mpho Vincent Makgwe Stats](https://github-readme-stats.vercel.app/api?username=Mpho-Vincent-Makgwe&show_icons=true&theme=merko&bg_color=00000000)](https://github.com/Mpho-Vincent-Makgwe/github-readme-stats)
