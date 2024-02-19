@@ -2,9 +2,10 @@
 
 ### Hi there 👋
 
-# Mpho Vincent Makgwe - Full Stack Software Engineering Student 👨‍💻
+# Entry-Level Full Stack Software Engineering Student 👨‍💻
 ## About me.
-Hello, I am a dedicated and results-oriented full-stack software engineering student at CodeLab Academy. My journey in web development began with a strong foundation in HTML, CSS, and JavaScript, which I have honed to perfection. Currently studying Full Stack Software Development at CodeLab Academy, I have specialized in modern front-end frameworks like React and back-end technologies like Node.js. My deep understanding of software development principles and my passion for crafting efficient, scalable solutions drive my work. I excel in problem-solving and am known for my meticulous attention to detail. I am a collaborative team player with effective communication skills, and I thrive in environments that foster innovation. My unwavering commitment to continuous learning fuels my ambition to excel as a Software Engineer and make a lasting impact in the ever-evolving IT industry. I am eager to bring my well-honed skills and enthusiasm to your team and contribute to your organization's success.
+Hello, I am a dedicated and results-oriented full-stack software engineering student at CodeLab Academy. My journey in web development began with a strong foundation in HTML, CSS, and JavaScript, which I have honed to perfection. I have specialized in modern front-end frameworks like React and back-end technologies like Node.js. My deep understanding of software development principles and my passion for crafting efficient, scalable solutions drive my work. I excel in problem-solving and am known for my meticulous attention to detail. I am a collaborative team player with effective communication skills, and I thrive in environments that foster innovation. My unwavering commitment to continuous learning fuels my ambition to excel as a Software Engineer and make a lasting impact in the ever-evolving IT industry.
+
 
 ## Skills 🚀
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://iconscout.com/icon/html5-19)
