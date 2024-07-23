@@ -4,7 +4,7 @@
 
 # Entry-Level Full Stack Software Engineering Student 👨‍💻
 ## About me.
-Hello, I am a dedicated and results-oriented full-stack software engineering student at CodeLab Academy. My journey in web development began with a strong foundation in HTML, CSS, and JavaScript, which I have honed to perfection. I have specialized in modern front-end frameworks like React and back-end technologies like Node.js. My deep understanding of software development principles and my passion for crafting efficient, scalable solutions drive my work. I excel in problem-solving and am known for my meticulous attention to detail. I am a collaborative team player with effective communication skills, and I thrive in environments that foster innovation. My unwavering commitment to continuous learning fuels my ambition to excel as a Software Engineer and make a lasting impact in the ever-evolving IT industry.
+Highly skilled Full-Stack Developer with a strong background in mechanical engineering. Proficient in backend development, with experience in MySQL, MongoDB, Firebase, JDBC, Next.js, Node.js, JavaScript, Java, HTML, XML, CSS3, React, Spring, and Spring Boot. Passionate about solving complex challenges in software development and database management systems. Strong problem-solving skills and the ability to work effectively in a team-based environment. 
 
 
 ## Skills 🚀
