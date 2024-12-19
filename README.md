@@ -1,10 +1,9 @@
-
-
 ### Hi there 👋
 
-# Entry-Level Full Stack Software Engineering Student 👨‍💻
+# Junior Full-Stack Software Developer 👨‍💻
+
 ## About me.
-Highly skilled Full-Stack Developer with a strong background in mechanical engineering. Proficient in backend development, with experience in MySQL, MongoDB, Firebase, JDBC, Next.js, Node.js, JavaScript, Java, HTML, XML, CSS3, React, Spring, and Spring Boot. Passionate about solving complex challenges in software development and database management systems. Strong problem-solving skills and the ability to work effectively in a team-based environment. 
+Highly skilled Junior Full-Stack Software Developer with a strong background in mechanical engineering. Proficient in both Java and JavaScript development, with experience in MySQL, MongoDB, Firebase, JDBC, Next.js, Node.js, React, Spring, and Spring Boot. Passionate about solving complex challenges in software development and database management systems. Strong problem-solving skills and the ability to work effectively in a team-based environment. 
 
 
 ## Skills 🚀
@@ -35,8 +34,7 @@ Here are some of my repositories that showcase my coding skills:
 - [CodeLab Projects](https://github.com/Mpho-vincent-makgwe?tab=repositories): A collection of small coding projects I completed during my time at CodeLab Academy.
 - [JavaScript30](https://github.com/Mpho-vincent-makgwe/JavaScript30-master.git): A repository containing my solutions to the 30 Day Vanilla JS Challenge.
 - [Portfolio Website](): The code for my personal portfolio website, built using HTML, CSS, and JavaScript.
-- [Kitchen App](https://github.com/Mpho-vincent-makgwe/todo-app): An order list application built using HTML,CSS and JavaScript that allows users to add, edit, and delete orders.
-- 
+- [Kitchen App](https://github.com/Mpho-vincent-makgwe/todo-app): An order list application built using HTML, CSS, and JavaScript that allows users to add, edit, and delete orders.
 
 ### 📫 Contact
 
